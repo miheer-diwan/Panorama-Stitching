@@ -20,8 +20,8 @@
 #### Feature Matching and RANSAC
 
 <p float="left">
-    <img src="https://github.com/miheer-diwan/Panorama-Stitching/assets/79761017/59652dda-87e5-42cc-828e-61d9bb97bfad" width="320" height="250"/> 
-  <img src="https://github.com/miheer-diwan/Panorama-Stitching/assets/79761017/6c7ecaba-42c2-4239-8b4f-eb3190017e44" width="320" height="250" />
+    <img src="https://github.com/miheer-diwan/Panorama-Stitching/assets/79761017/59652dda-87e5-42cc-828e-61d9bb97bfad" width="320" height="200"/> 
+  <img src="https://github.com/miheer-diwan/Panorama-Stitching/assets/79761017/6c7ecaba-42c2-4239-8b4f-eb3190017e44" width="320" height="200" />
 </p>
 
 #### Final Output After Poisson Blending:
