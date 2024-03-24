@@ -28,7 +28,7 @@
 
 ![panoset1](https://github.com/miheer-diwan/Panorama-Stitching/assets/79761017/aec894a4-05f3-4d90-b23c-5da4c1a43f01)
 
-#### Implementation On Custom Dataset:
+### Implementation On Custom Dataset:
 ##### Custom Input Images:
 ![mihinput (2)](https://github.com/miheer-diwan/Panorama-Stitching/assets/79761017/1b9f4b28-d529-4b21-a2a8-53f73d4f3d93)
 
